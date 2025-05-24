@@ -81,11 +81,3 @@ I write code like a boss, design like an artist, and debug like a detective. ðŸ˜
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
----
-
-# ðŸ“Š GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com/?user=mohitlakhara-ind&theme=blue_navy&hide_border=false)
-
----
