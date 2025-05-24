@@ -1,3 +1,34 @@
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+---
+
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohitlakhara-ind/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://codepen.io/mohitlakhara-ind" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="45" height="30" alt="codepen logo"  />
+  </a>
+  <a href="https://www.instagram.com/webdev_mohit" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+  </a>
+  <a href="mailto:mohitlakhara78500@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/mohit-lakhara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="45" height="30" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+---
+
 # 💫 About Me
 
 🚀 I'm building a **full-stack social media-style app** featuring image/video uploads, real-time interactions, and hashtag filtering.
@@ -24,15 +55,7 @@ I write code like a boss, design like an artist, and debug like a detective. �
 
 ---
 
-## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webdev_mohit)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitlakhara-ind)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mohit-lakhara)  
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/mohitlakhara-ind)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitlakhara78500@gmail.com)
-
----
 
 # 💻 Tech Stack
 
@@ -80,4 +103,26 @@ I write code like a boss, design like an artist, and debug like a detective. �
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+
+###
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitlakhara-ind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohitlakhara-ind&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mohitlakhara-ind&no-bg=false&theme=tokyonight" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitlakhara-ind&area=true&theme=tokyo-night" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
 
