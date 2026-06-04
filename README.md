@@ -117,10 +117,7 @@ status:     Building cool stuff 🔥
 <a href="https://linkedin.com/in/mohitlakhara-ind">
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="https://github.com/mohitlakhara-ind">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white&labelColor=333" />
-</a>
-<a href="https://codepen.io/mohitlakhara">
+<a href="https://codepen.io/mohitlakhara-ind">
   <img src="https://img.shields.io/badge/CodePen-0a0a0f?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000" />
 </a>
 <a href="https://instagram.com/dev_x_mohit">
