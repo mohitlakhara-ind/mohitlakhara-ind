@@ -11,13 +11,14 @@
 <td width="60%" valign="top">
 
 ### About Me
-I am a Full-Stack Developer specializing in building high-performance web and mobile products using the **Next.js & React Native (TypeScript)** ecosystem. 
+I am a Full-Stack Developer specializing in building high-performance web and mobile applications using the **TypeScript (React, Next.js, and React Native)** ecosystem. 
 
-I focus on clean database architectures, real-time collaboration engines, payment integrations, and premium UI/UX implementations.
+I focus on clean database design, real-time sync systems, payment gateways, and premium 3D & animated UI/UX integrations.
 
-*   💼 **Current Role:** Full-Stack Developer at **Fudode**
+*   💼 **Current Role:** Freelance Full-Stack Developer & MCA Student
+*   🏢 **Past Experience:** Full-Stack Developer at **Fudode** | Frontend Intern at **The Website Creators**
 *   🎓 **Education:** Pursuing **MCA in Cloud Computing** (JECRC University) | **BCA Graduate** (Lachoo Memorial College)
-*   🚀 **Interests:** AI-powered products, WebRTC solutions, FinTech systems, and custom algorithms.
+*   🚀 **Interests:** Multi-tenant SaaS, AI agent integration, real-time collaboration platforms, and offline-first mobile architecture.
 
 </td>
 <td width="40%" valign="top">
@@ -27,9 +28,10 @@ identity:
   name: Mohit Lakhara
   role: Full-Stack Developer
   stack: TypeScript, React, Next.js, React Native
-  databases: PostgreSQL, MongoDB, Prisma, Mongoose
-  availability: Open to remote collaborations
-  status: Shipping SaaS & mobile apps 🔥
+  databases: PostgreSQL, MongoDB, MySQL, Firebase
+  architecture: REST, Socket.io, SSE, Monorepos
+  availability: Open to remote opportunities 🌍
+  status: Building SaaS & mobile apps 🔥
 ```
 
 </td>
@@ -44,16 +46,23 @@ identity:
 
 | Project | Description | Tech Stack | Status | Links |
 | :--- | :--- | :--- | :---: | :--- |
-| 🧾 **Soloflow** | AI-powered Freelancer Billing SaaS. Features idempotent payment webhooks, signed magic client links, and GPT-4o SSE proposal streaming. | `Next.js 15` `PostgreSQL` `Prisma` `Razorpay` `OpenAI` | 🚀 Live | [Demo](https://soloflow-invoice.vercel.app) · [Code](https://github.com/mohitlakhara-ind/soloflow) |
-| 🏡 **Stitch** | Luxury Real Estate app featuring a premium mortgage EMI calculator, persistent favorites, Appwrite backend integration, and zero-config offline fallback. | `React Native` `Expo SDK 52` `NativeWind v4` `Appwrite` | 📱 Mobile | [Code](https://github.com/mohitlakhara-ind/stitch) |
-| 🧠 **Nexus** | Real-time visual mind-mapping canvas optimized for 60fps viewports. Uses custom delta sync, Socket.io, and Gemini concept expanders. | `React 19` `React Flow` `Socket.io` `Zustand` `Gemini` | 🚀 Live | [Demo](https://nexus-visuals.vercel.app/) · [Code](https://github.com/mohitlakhara-ind/nexus) |
+| 📅 **BookFlow** | Multi-tenant appointment booking SaaS featuring Razorpay UPI deposits, bilingual automated WhatsApp reminders, and AI-driven clinic scheduling. | `Next.js` `Expo (RN)` `Prisma` `Razorpay` | 🚀 Live | [Demo](https://bookflow-schedule.vercel.app) · [Code](https://github.com/mohitlakhara-ind/bookflow) |
+| 🧾 **Soloflow** | AI-powered Freelancer Invoicing SaaS. Features idempotent Razorpay webhooks, signed magic client links, and GPT-4o SSE proposal streaming. | `Next.js 15` `PostgreSQL` `Prisma` `Razorpay` `OpenAI` | 🚀 Live | [Demo](https://soloflow-invoice.vercel.app) · [Code](https://github.com/mohitlakhara-ind/soloflow) |
+| 🏡 **Stitch** | Luxury Real Estate app featuring a premium mortgage EMI calculator, persistent favorites tab, Appwrite database integrations, and zero-config offline fallback. | `React Native` `Expo SDK 52` `NativeWind v4` `Appwrite` | 📱 Mobile | [Code](https://github.com/mohitlakhara-ind/stitch) |
+| 🧠 **Nexus** | Real-time collaborative visual canvas optimized for 60fps viewports. Uses custom delta sync, Socket.io, and Gemini AI concept generation. | `React 19` `React Flow` `Socket.io` `Zustand` `Gemini` | 🚀 Live | [Demo](https://nexus-visuals.vercel.app/) · [Code](https://github.com/mohitlakhara-ind/nexus) |
 | 💸 **Splitwiser** | Cross-platform expense splitter. Features custom graph debt simplification, receipt OCR scanning, and one-tap WhatsApp settlement nudges. | `React Native` `React (Vite)` `Express` `MongoDB` `OCR` | 🚀 Live | [Demo](https://web-gz8lisyvm-mohitlakhara-inds-projects.vercel.app) · [Code](https://github.com/mohitlakhara-ind/splitsmart) |
 
 </div>
 
+<div align="center">
+  <a href="https://mohitlakhara.vercel.app/projects" target="_blank">
+    <img src="https://img.shields.io/badge/View%2020%2B%20More%20Projects-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View More Projects" />
+  </a>
+</div>
+
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack & Skills
 
 ### 🎨 Frontend & Mobile
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
@@ -62,6 +71,7 @@ identity:
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)](https://framer.com/motion/)
 
 ### ⚙️ Backend, Databases & Tools
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -70,7 +80,13 @@ identity:
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+
+### 🤖 AI Engineering & Languages
+[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://oracle.com/java)
 
 ---
 
