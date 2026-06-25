@@ -1,127 +1,160 @@
-# Mohit Lakhara 👋
-**Full-Stack TypeScript & React Native Developer**  
-📍 Rajasthan, India (Remote) | [Portfolio](https://mohitlakhara.vercel.app) | [LinkedIn](https://linkedin.com/in/mohitlakhara-ind) | [Email](mailto:mohitlakhara78500@gmail.com)
+<div align="center">
+
+# Hey, I'm Mohit Lakhara 👋
+
+### Full Stack Developer · MERN Architect · UI/UX Engineer
+
+I build **production-grade web & mobile apps** with cinematic interfaces and bulletproof backends.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohitlakhara.vercel.app-C89A3C?style=for-the-badge&logo=vercel&logoColor=white)](https://mohitlakhara.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohitlakhara--ind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitlakhara-ind)
+[![CodePen](https://img.shields.io/badge/CodePen-mohitlakhara-1E1F26?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mohitlakhara)
+[![Gmail](https://img.shields.io/badge/Email-mohitlakhara78500-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitlakhara78500@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## ⚡ About Me
+
+- 🔭 **Currently**: Freelance Developer & pursuing **MCA in Cloud Computing** at JECRC University, Jaipur
+- 🏢 **Previously**: Full Stack Developer at **Fudode** (Jan – May 2026)
+- 🎓 **Education**: BCA from Lachoo Memorial College (2023 – 2026)
+- 🌍 **Based**: Barmer, Rajasthan, India · Open to **Remote** worldwide
+- 🧠 Building high-performance SaaS solutions and cinematic UIs as a freelancer
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-### About Me
-I am a Full-Stack Developer specializing in building high-performance web and mobile applications using the **TypeScript (React, Next.js, and React Native)** ecosystem. 
-
-I focus on clean database design, real-time sync systems, payment gateways, and premium 3D & animated UI/UX integrations.
-
-*   💼 **Current Role:** Freelance Full-Stack Developer & MCA Student
-*   🏢 **Past Experience:** Full-Stack Developer at **Fudode** | Frontend Intern at **The Website Creators**
-*   🎓 **Education:** Pursuing **MCA in Cloud Computing** (JECRC University) | **BCA Graduate** (Lachoo Memorial College)
-*   🚀 **Interests:** Multi-tenant SaaS, AI agent integration, real-time collaboration platforms, and offline-first mobile architecture.
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-identity:
-  name: Mohit Lakhara
-  role: Full-Stack Developer
-  stack: TypeScript, React, Next.js, React Native
-  databases: PostgreSQL, MongoDB, MySQL, Firebase
-  architecture: REST, Socket.io, SSE, Monorepos
-  availability: Open to remote opportunities 🌍
-  status: Building SaaS & mobile apps 🔥
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>🧾 Soloflow — AI Billing SaaS</h3>
+      <p>Production-ready SaaS for freelancers — client management, time tracking, PDF invoices, GPT-4o AI proposal generation via SSE streaming, and Razorpay payment integration.</p>
+      <p><strong>Next.js 15 · Prisma · PostgreSQL · NextAuth · Razorpay · OpenAI</strong></p>
+      <a href="https://soloflow-invoice.vercel.app">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/soloflow">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🏠 Stitch — Luxury Real Estate App</h3>
+      <p>Premium mobile app with offline demo mode, interactive FinTech mortgage calculator, glassmorphic UI, and curated Indian property listings across Jodhpur & Jaipur.</p>
+      <p><strong>React Native · Expo SDK 52 · TypeScript · NativeWind · Appwrite</strong></p>
+      <a href="https://github.com/mohitlakhara-ind/stitch">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 Splitwiser — AI Expense Splitter</h3>
+      <p>Multi-platform expense splitter with OCR receipt scanning, graph-based debt simplification algorithm, and one-tap WhatsApp settlement nudges.</p>
+      <p><strong>React Native · Express · TypeScript · FastAPI · MongoDB · OCR</strong></p>
+      <a href="https://github.com/mohitlakhara-ind/splitsmart">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🧠 Nexus — Visual Mapping Platform</h3>
+      <p>Collaborative visual diagramming with infinite canvas, Gemini AI concept expansion, real-time Socket.io sync, and 60fps optimized rendering.</p>
+      <p><strong>React 19 · React Flow · Tailwind CSS v4 · Socket.io · Gemini AI</strong></p>
+      <a href="https://nexus-visuals.vercel.app/">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/nexus">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Ekovym — Developer Productivity Suite</h3>
+      <p>Developer-focused platform for streamlining workflows with modern UI/UX and collaborative modules.</p>
+      <p><strong>React.js · TailwindCSS · Node.js · MongoDB</strong></p>
+      <a href="https://ekovym.vercel.app/">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/ekovym">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>📝 NoteNow — Cloud-Synced Editor</h3>
+      <p>Minimal, intuitive note-taking app with real-time Firebase sync, Markdown support, and PWA capabilities.</p>
+      <p><strong>React.js · Firebase · Markdown · PWA</strong></p>
+      <a href="https://notemenow.vercel.app">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/notes-app">📂 Repo</a>
+    </td>
+  </tr>
 </table>
 
+> 📌 **See all 25+ projects on my [Portfolio →](https://mohitlakhara.vercel.app)**
+
 ---
 
-## 🌌 Shipped Products & Featured Projects
+## 🏆 Certifications
+
+- **Front End Dev Libraries** — freeCodeCamp (Jan 2025)
+- **JS Algorithms & Data Structures** — freeCodeCamp (Oct 2024)
+- **Problem Solving (Intermediate)** — HackerRank (Sep 2024)
+- **Responsive AI / LLM Introduction** — Google Cloud (2024)
+- **Responsive Web Design** — freeCodeCamp (Aug 2024)
+- **CODEMATHON 2024 Participant** — NIT Kurukshetra (Oct 2024)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status | Links |
-| :--- | :--- | :--- | :---: | :--- |
-| 📅 **BookFlow** | Multi-tenant appointment booking SaaS featuring Razorpay UPI deposits, bilingual automated WhatsApp reminders, and AI-driven clinic scheduling. | `Next.js` `Expo (RN)` `Prisma` `Razorpay` | 🚀 Live | [Demo](https://bookflow-schedule.vercel.app) · [Code](https://github.com/mohitlakhara-ind/bookflow) |
-| 🧾 **Soloflow** | AI-powered Freelancer Invoicing SaaS. Features idempotent Razorpay webhooks, signed magic client links, and GPT-4o SSE proposal streaming. | `Next.js 15` `PostgreSQL` `Prisma` `Razorpay` `OpenAI` | 🚀 Live | [Demo](https://soloflow-invoice.vercel.app) · [Code](https://github.com/mohitlakhara-ind/soloflow) |
-| 🏡 **Stitch** | Luxury Real Estate app featuring a premium mortgage EMI calculator, persistent favorites tab, Appwrite database integrations, and zero-config offline fallback. | `React Native` `Expo SDK 52` `NativeWind v4` `Appwrite` | 📱 Mobile | [Code](https://github.com/mohitlakhara-ind/stitch) |
-| 🧠 **Nexus** | Real-time collaborative visual canvas optimized for 60fps viewports. Uses custom delta sync, Socket.io, and Gemini AI concept generation. | `React 19` `React Flow` `Socket.io` `Zustand` `Gemini` | 🚀 Live | [Demo](https://nexus-visuals.vercel.app/) · [Code](https://github.com/mohitlakhara-ind/nexus) |
-| 💸 **Splitwiser** | Cross-platform expense splitter. Features custom graph debt simplification, receipt OCR scanning, and one-tap WhatsApp settlement nudges. | `React Native` `React (Vite)` `Express` `MongoDB` `OCR` | 🚀 Live | [Demo](https://web-gz8lisyvm-mohitlakhara-inds-projects.vercel.app) · [Code](https://github.com/mohitlakhara-ind/splitsmart) |
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C89A3C&icon_color=C89A3C&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitlakhara-ind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C89A3C&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitlakhara-ind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C89A3C&fire=C89A3C&currStreakLabel=C89A3C)
 
 </div>
+
+---
 
 <div align="center">
-  <a href="https://mohitlakhara.vercel.app/projects" target="_blank">
-    <img src="https://img.shields.io/badge/View%2020%2B%20More%20Projects-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View More Projects" />
-  </a>
-</div>
 
----
+### Let's Build Something Incredible Together
 
-## 🛠️ Tech Stack & Skills
+[![Portfolio](https://img.shields.io/badge/Explore_My_Work-mohitlakhara.vercel.app-C89A3C?style=for-the-badge)](https://mohitlakhara.vercel.app)
 
-### 🎨 Frontend & Mobile
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)](https://framer.com/motion/)
-
-### ⚙️ Backend, Databases & Tools
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-
-### 🤖 AI Engineering & Languages
-[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://oracle.com/java)
-
----
-
-## 📈 GitHub Activity
-
-<p align="left">
-  <a href="https://github.com/mohitlakhara-ind">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitlakhara-ind&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff" width="49%" />
-  </a>
-  <a href="https://github.com/mohitlakhara-ind">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="49%" />
-  </a>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<div align="left">
-  <a href="https://mohitlakhara.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c3aed" />
-  </a>
-  <a href="https://linkedin.com/in/mohitlakhara-ind" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="mailto:mohitlakhara78500@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  <a href="https://codepen.io/mohitlakhara-ind" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-0a0a0f?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000" />
-  </a>
-</div>
-
-<br/>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mohitlakhara-ind&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
