@@ -151,8 +151,6 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
 
 ---
 
----
-
 <div align="center">
 
 ### Let's Build Something Incredible Together
