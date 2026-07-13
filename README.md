@@ -140,13 +140,11 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C89A3C&icon_color=C89A3C&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitlakhara-ind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C89A3C&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitlakhara-ind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C89A3C&fire=C89A3C&currStreakLabel=C89A3C)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitlakhara-ind&theme=radical&hide_border=true&bg_color=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="170" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitlakhara-ind&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" width="400" />
 </div>
 
 ---
