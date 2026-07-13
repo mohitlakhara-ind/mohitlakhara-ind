@@ -83,13 +83,13 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
       <h3>🧾 Soloflow — AI Billing SaaS</h3>
       <p>Production-ready SaaS for freelancers — client management, time tracking, PDF invoices, GPT-4o AI proposal generation via SSE streaming, and Razorpay payment integration.</p>
       <p><strong>Next.js 15 · Prisma · PostgreSQL · NextAuth · Razorpay · OpenAI</strong></p>
-      <a href="https://soloflow-invoice.vercel.app">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/soloflow">📂 Repo</a>
+      <a href="https://soloflow-invoice.vercel.app">🔗 Live</a> · <a href="https://github.com/dev-x-mohit/soloflow">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>🏠 Stitch — Luxury Real Estate App</h3>
       <p>Premium mobile app with offline demo mode, interactive FinTech mortgage calculator, glassmorphic UI, and curated Indian property listings across Jodhpur & Jaipur.</p>
       <p><strong>React Native · Expo SDK 52 · TypeScript · NativeWind · Appwrite</strong></p>
-      <a href="https://github.com/mohitlakhara-ind/stitch">📂 Repo</a>
+      <a href="https://github.com/dev-x-mohit/stitch">📂 Repo</a>
     </td>
   </tr>
   <tr>
@@ -97,13 +97,13 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
       <h3>💰 Splitwiser — AI Expense Splitter</h3>
       <p>Multi-platform expense splitter with OCR receipt scanning, graph-based debt simplification algorithm, and one-tap WhatsApp settlement nudges.</p>
       <p><strong>React Native · Express · TypeScript · FastAPI · MongoDB · OCR</strong></p>
-      <a href="https://github.com/mohitlakhara-ind/splitsmart">📂 Repo</a>
+      <a href="https://github.com/dev-x-mohit/splitsmart">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>🧠 Nexus — Visual Mapping Platform</h3>
       <p>Collaborative visual diagramming with infinite canvas, Gemini AI concept expansion, real-time Socket.io sync, and 60fps optimized rendering.</p>
       <p><strong>React 19 · React Flow · Tailwind CSS v4 · Socket.io · Gemini AI</strong></p>
-      <a href="https://nexus-visuals.vercel.app/">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/nexus">📂 Repo</a>
+      <a href="https://nexus-visuals.vercel.app/">🔗 Live</a> · <a href="https://github.com/dev-x-mohit/nexus">📂 Repo</a>
     </td>
   </tr>
   <tr>
@@ -111,13 +111,13 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
       <h3>⚙️ Ekovym — Developer Productivity Suite</h3>
       <p>Developer-focused platform for streamlining workflows with modern UI/UX and collaborative modules.</p>
       <p><strong>React.js · TailwindCSS · Node.js · MongoDB</strong></p>
-      <a href="https://ekovym.vercel.app/">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/ekovym">📂 Repo</a>
+      <a href="https://ekovym.vercel.app/">🔗 Live</a> · <a href="https://github.com/dev-x-mohit/ekovym">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>📝 NoteNow — Cloud-Synced Editor</h3>
       <p>Minimal, intuitive note-taking app with real-time Firebase sync, Markdown support, and PWA capabilities.</p>
       <p><strong>React.js · Firebase · Markdown · PWA</strong></p>
-      <a href="https://notemenow.vercel.app">🔗 Live</a> · <a href="https://github.com/mohitlakhara-ind/notes-app">📂 Repo</a>
+      <a href="https://notemenow.vercel.app">🔗 Live</a> · <a href="https://github.com/dev-x-mohit/notes-app">📂 Repo</a>
     </td>
   </tr>
 </table>
@@ -140,26 +140,16 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitlakhara-ind&theme=radical" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-x-mohit&theme=radical" width="100%">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitlakhara-ind&theme=radical" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitlakhara-ind&theme=radical" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-x-mohit&theme=radical" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-x-mohit&theme=radical" height="170">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitlakhara-ind&theme=radical" height="170">
-  <img src="https://streak-stats.demolab.com/?user=mohitlakhara-ind&theme=radical&hide_border=true&bg_color=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-x-mohit&theme=radical" height="170">
+  <img src="https://streak-stats.demolab.com/?user=dev-x-mohit&theme=radical&hide_border=true&bg_color=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="170">
 </div>
 
 ---
-
-## 🏆 GitHub Achievements (Live badges)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitlakhara-ind&query=public_repos&label=Public%20Repos&style=for-the-badge&color=ff6b6b&logo=github" alt="Repos">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitlakhara-ind&query=followers&label=Followers&style=for-the-badge&color=ff6b6b&logo=github" alt="Followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitlakhara-ind&query=following&label=Following&style=for-the-badge&color=ff6b6b&logo=github" alt="Following">
-  <img src="https://img.shields.io/github/stars/mohitlakhara-ind?style=for-the-badge&color=ff6b6b&logo=github" alt="Stars">
-  <img src="https://img.shields.io/github/contributors/mohitlakhara-ind/mohitlakhara-ind?style=for-the-badge&color=ff6b6b&logo=github" alt="Contributors">
-</div>
 
 ---
 
