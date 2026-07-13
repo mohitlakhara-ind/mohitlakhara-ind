@@ -140,11 +140,25 @@ I build **production-grade web & mobile apps** with cinematic interfaces and bul
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitlakhara-ind&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitlakhara-ind&theme=radical&hide_border=true&bg_color=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitlakhara-ind&theme=radical" width="100%">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitlakhara-ind&theme=radical" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitlakhara-ind&theme=radical" height="170">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitlakhara-ind&theme=radical" height="170">
+  <img src="https://streak-stats.demolab.com/?user=mohitlakhara-ind&theme=radical&hide_border=true&bg_color=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="170">
 </div>
+
+---
+
+## 🏆 GitHub Achievements (Live badges)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitlakhara-ind&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" width="400" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitlakhara-ind&query=public_repos&label=Public%20Repos&style=for-the-badge&color=ff6b6b&logo=github" alt="Repos">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitlakhara-ind&query=followers&label=Followers&style=for-the-badge&color=ff6b6b&logo=github" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mohitlakhara-ind&query=following&label=Following&style=for-the-badge&color=ff6b6b&logo=github" alt="Following">
+  <img src="https://img.shields.io/github/stars/mohitlakhara-ind?style=for-the-badge&color=ff6b6b&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/contributors/mohitlakhara-ind/mohitlakhara-ind?style=for-the-badge&color=ff6b6b&logo=github" alt="Contributors">
 </div>
 
 ---
